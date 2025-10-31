@@ -1,34 +1,36 @@
-# 🚀 DevRel Hub - Detroit Developer Relations
+# Detroit Swift DevRel Hub
 
-Community-driven developer enrichment and inspiration
+Central hub for Detroit's Swift developer community with AI-powered learning assistance.
 
-## 🎯 Mission
+## 🚀 Features
 
-Empower Detroit developers through education, inspiration, and security awareness.
+- **20 Swift Packages** - Production-ready code
+- **AI Assistant** - Powered by GPT-4
+- **Learning Path** - Beginner to Advanced
+- **Project Ideas** - 10 real-world projects
+- **Documentation** - Comprehensive guides
+
+## 📦 Quick Start
+
+```bash
+npm install
+npm run dev
+```
+
+Visit http://localhost:3000
+
+## 🌐 Deploy to Vercel
+
+```bash
+vercel --prod
+```
+
+Add `OPENAI_API_KEY` environment variable.
 
 ## 📚 Resources
 
-### Developer Enrichment
-- [Swift Best Practices](https://github.com/durellwilson/swift-best-practices-2026)
-- [SwiftUI Essentials](https://github.com/durellwilson/swiftui-essentials)
-- [CoreML Starter](https://github.com/durellwilson/coreml-starter)
+All 20 GitHub repositories linked and documented.
 
-### Community Projects
-- [Detroit Transit Kit](https://github.com/durellwilson/detroit-transit-kit)
-- [Detroit Tech Equity](https://github.com/durellwilson/DetroitTechEquity)
+---
 
-### Security Awareness
-- [Prompt Injection Prevention Guide](./SECURITY.md)
-- [AI Safety Best Practices](./AI_SAFETY.md)
-
-## 🤝 Contributing
-
-We welcome contributions that:
-- Educate developers
-- Inspire innovation
-- Promote security awareness
-- Build community
-
-## 🏙️ Detroit Tech Community
-
-Join us in building a safer, more innovative tech ecosystem!
+**Built for Detroit's Swift community** 🏭
